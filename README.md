@@ -1,2 +1,2 @@
 # portfolio.github.io
-A simple portfolio about my profession.
+A portfolio about my profession.
